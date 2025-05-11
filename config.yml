@@ -1,14 +1,14 @@
 # Main site info
-author: Leonardo Uieda
-email: uieda@usp.br
-domain: "leouieda.com"
-url: "https://www.leouieda.com"
-site_name: Leonardo Uieda
-site_description: Geophysicist, Educator, Scientist, Programmer, Dad
-brand: Leonardo Uieda
+author: Jae-Hyeok Lee
+email: jaehyeok.lee@umanitoba.ca
+domain: "algalsexlab.info"
+url: "https://www.algalsexlab.info"
+site_name: Algal Sexual Development Laboratory at University of Manitoba
+site_description: Developmental Evolutionary Biology, Molecular Genetics, University of Manitoba, Laboratory Researcher, Chlamydomonas reinhardtii
+brand: AlgalSexLab
 language: en
-keywords: 'science, geoscience, geophysics, software, open-source'
-repository: leouieda/website
+keywords: 'science, biology, algae, cellular evolution, genetics laboratory, University of Manitoba'
+repository: Chlamy18/website
 repository_branch: main
 favicon: images/favicon.png
 thumbnail: images/thumbnail.jpg
@@ -18,30 +18,17 @@ license_notice: |
 coc: https://github.com/leouieda/website/blob/main/CODE_OF_CONDUCT.md
 
 # Social media
-github: leouieda
-mastodon: leouieda
-mastodon_server: bertha.social
-matrix: "@leouieda:matrix.org"
-linkedin: uieda
-youtube: leouieda
-orcid: 0000-0001-6123-9515
-researcherid: G-3258-2012
-lattes: "8939551682050504"
-researchgate: https://www.researchgate.net/profile/Leonardo-Uieda
-googlescholar: http://scholar.google.com/citations?user=qfmPrUEAAAAJ
-figshare: https://figshare.com/authors/Leonardo_Uieda/97471
-scopus: "47062144700"
+github: Chlamy18
+linkedin: 
+youtube: 
+orcid: 0000-
+researcherid: 00000-
+googlescholar: https://scholar.google.ca/citations?user=hhmk8owAAAAJ
 
 links:
-  compgeolab: https://www.compgeolab.org
-  fatiando: https://www.fatiando.org
-  tesseroids: https://tesseroids.leouieda.com
-  nene: https://nene.leouieda.com
-  pygmt: https://www.pygmt.org
-  gmt: https://www.generic-mapping-tools.org
-  swung: https://softwareunderground.org
-  iag: https://www.iag.usp.br
-  xlandsat: https://www.compgeolab.org/xlandsat
+  Chlamydomonas Resource Center: https://www.chlamydomonas.org
+  Uniprot: https://www.uniprot.org/
+  Phytozome: https://phytozome.jgi.doe.gov/
 
 # Menu
 navigation:
@@ -81,102 +68,16 @@ ignore:
   - Makefile
   - css/academicons/README.md
 
-# My co-authors
-coauthors:
-  Me: Uieda, L
-  Val: Barbosa, VCF
-  Bi: Oliveira Jr, VC
-  Paul: Wessel, P
-  Joaquim: Luis, J
-  Remko: Scharroo, R
-  Florian: Wobbe, F
-  Walter: Smith, WHF
-  Dongdong: Tian, D
-  Bridget: Smith-Konter, B
-  Eric: Xu, X
-  David: Sandwell, DT
-  Carla: Braitenberg, C
-  Naomi: Ussami, N
-  Manoel: D'Agrella-Filho, MS
-  JB: Silva, JBC
-  Dai: Sales, DP
-  Figura: Melo, FF
-  Dio: Carlos, DU
-  BragaVale: Braga, MA
-  YLi: Li, Y
-  Angeli: Angeli, G
-  Peres: Peres, G
-  Everton: Bomfim, EP
-  Eder: Molina, E
-  Gomes: Gomes, AAS
-  Santiago: Soler, SR
-  Agustina: Pesce, A
-  Gimenez: Gimenez, ME
-  Kristoffer: Hallam, KAT
-  Guangdong: Zhao, G
-  Bo: Chen, B
-  JLiu: Liu, J
-  LChen: Chen, L
-  RGuo: Guo, R
-  MKaban: Kaban, MK
-  Lindsey: Heagy, LJ
-  Lion: Krischer, L
-  FWagner: Wagner, F
-  Rene: Gassmoeller, R
-  Bane: Sullivan, CB
-  Jens: Klump, JF
-  LBarba: Barba, LA
-  JBazan: Bazan, J
-  JBrown: Brown, J
-  RGuimera: Guimera, RV
-  MGymrek: Gymrek, M
-  AHanna: Alex Hanna
-  KHuff: Huff, KD
-  DKatz: Katz, DS
-  CMadan: Madan, CR
-  KMoerman: Moerman, KM
-  KNiemeyer: Niemeyer, KE
-  JPoulson: Poulson, JL
-  PPrins: Prins, P
-  KRam: Ram, K
-  ARokem: Rokem, A
-  Arfon: Smith, AM
-  GThiruvathukal: Thiruvathukal, GK
-  KThyng: Thyng, KM
-  BWilson: Wilson, BE
-  Yehudi: Yehudi, Y
-  Remi: Rampin, R
-  Hugo: van Kemenade, H
-  MattTurk: Turk, M
-  Shapero: Shapero, D
-  Anderson: Banihirwe, A
-  Leeman: Leeman, J
-  JEbbing: Ebbing, J
-  AGuy: Guy, A
-  JFarquharson: Farquharson, J
-  AKushnir: Kushnir, A
-  FWadsworth: Wadsworth, F
-  LPerozzi: Perozzi, L
-  MWieczorek: Wieczorek, MA
-  LLi: Li, L
-  Ricardo: Trindade, RIF
-  Gelson: Souza-Junior, GF
-  Janine: Carmo, J
-  Roger: Fu, R
-  RNijzink: Nijzink, RC
-  NDrost: Drost, N
-  FPianosi: Pianosi, F
-  SSchymanski: Schymanski, S
-  MTso: Tso, M
-  Max: Jones, M
-  WeiJi: Leong, WJ
-  ABelem: Belem, A
-  Sacek: Sacek, V
-  Bianchi: Bianchi, M
-  India: Uppal, I
-  Ualisson: Bellon, UD
-  Wyn: Williams, W
-  Muxworthy: Muxworthy, AR
-  Les: Nagy, L
-  Yago: Castro, YM
-  Arthur: Macêdo, AS
+# My Crews
+Lab Crew:
+  P.I.: Ph.D. Lee, Jae-Hyeok
+  Mahtab: B.Sc. Ziaeian, Mahtab
+  Hasni: B.Sc. Dharmasiri, Hasni
+  Oyin: B.Sc. Okansola, Oyin
+  Emma: UG .., Emmanuella
+Former Crew:
+  Minsung: Scharroo, R
+  Miku: Wobbe, F
+Recent Collaborators:
+  Ursula: Ph.D. Goodenough, Ursula
+  Eonseon: Ph.D. Jin, Eonseon
